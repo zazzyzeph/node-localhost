@@ -11,7 +11,7 @@ I'm assuming you've installed [node.js]
 
 You can also access the hosted site from any device on your network by pointing it to your host's IP address, ex: ```192.168.99.999:1337```
 
-This also allows you to use TypeKit on your localhost, provided you added ```localhost``` to your kit's allowed domains list.
+This also allows you to use TypeKit on your localhost, provided you added ```localhost``` to your kit's allowed domains list. If you want to view your site on other devices, you'll need to add your IP address as well.
 
 ### Use
   - the `public` folder is the public root of your server
