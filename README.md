@@ -15,7 +15,7 @@ This also allows you to use TypeKit on your localhost, provided you added ```loc
 
 ### Use
   - the `public` folder is the public root of your server
-  - you'll need to set a route for each page in `server.js`. One is already set up for `index`
+  - you'll need to set a route for each page in `server.js`. One is already set up for `index`.
 
 
 
