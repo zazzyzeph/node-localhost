@@ -1,0 +1,21 @@
+{
+  "name": "merckrewards",
+  "version": "1.0.0",
+  "description": "my pet rewards",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zprusinski@bitbucket.org/zprusinski/merckrewards.git"
+  },
+  "author": "Zephyr Prusinski",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/zprusinski/merckrewards#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
